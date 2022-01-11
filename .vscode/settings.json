@@ -26,4 +26,9 @@
         "--load-plugins=pylint_django"
     ],
     "jupyter.jupyterServerType": "local",
+    "ltex.language": "en-GB",
+    "ltex.ltex-ls.path": "/usr/ltex/ltex-ls-15.2.0/",
+    "[markdown]": {
+        "editor.quickSuggestions": true
+    }
 }
