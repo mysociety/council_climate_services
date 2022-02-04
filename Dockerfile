@@ -1,4 +1,4 @@
-FROM ghcr.io/mysociety/notebook_helper:v1.1.2
+FROM ghcr.io/mysociety/notebook_helper:v1.2.1
 
 RUN pip install --no-cache-dir notebook
 

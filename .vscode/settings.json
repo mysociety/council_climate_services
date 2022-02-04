@@ -27,7 +27,7 @@
     ],
     "jupyter.jupyterServerType": "local",
     "ltex.language": "en-GB",
-    "ltex.ltex-ls.path": "/usr/ltex/ltex-ls-15.2.0/",
+    "ltex.ltex-ls.path": "/ltex/ltex-ls-15.2.0/",
     "[markdown]": {
         "editor.quickSuggestions": true
     }
