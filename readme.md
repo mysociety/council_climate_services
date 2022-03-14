@@ -1,7 +1,10 @@
-# Template notebook
 
-This is a template notebook used for mySociety data science projects.
+# council_climate_services
 
-You only update this repo, and don't clone directly from it. See instructions in [this repo](https://github.com/mysociety/notebook-auto-template) on how to use it as a template for new projects.
+[![badge](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mysociety/council_climate_services/HEAD)
+
+Dataset of council climate services
+
+This repository is avaliable online at https://github.com/mysociety/council_climate_services
 
 Instructions on using the features of this notebook are avaliable in [notebooks-readme.md](notebooks-readme.md).
