@@ -1,6 +1,6 @@
 # Emissions-reduction related services
 
-Rough breakdown of local government services (as defined in [ESD standard](https://standards.esd.org.uk/?uri=list)) for England and Wales that have some relation to emissions reduction.
+Rough breakdown of local government services (as defined in [ESD standard](https://standards.esd.org.uk/?uri=list%2FenglishAndWelshServices)) for England and Wales that have some relation to emissions reduction.
 
 These services are then categorized into:
 
