@@ -8,11 +8,13 @@ These services are then categorized into:
 * Regulation/Data - How councils shape what others can do and information they gather to inform this activity
 * Place-making - Wider plan and strategic powers that have some relevance to emissions reductions.
 
+Services can be in multiple categories.
+
 This dataset has a `draft` status, not all relevant services may be included, not all services included may be relevant, and catagories may not be entirely correct. 
 
 The raw dataset is in `data\emissions-related-services.csv`. 
 
-| types | Identifier |
+| Area | Services |
 | :--- | :--- |
 | Placemaking | 80 |
 | Regulation/Data | 71 |
